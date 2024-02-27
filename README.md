@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on game projects
 - 📫 How to reach me: sadremozz@gmail.com
 - 😄 Pronouns: Egor
-- ⚡ Fun fact: I'm playing sport for 14 years
+- ⚡ Fun fact: I'm playing sport games for 14 years
 
 <!---
 YourMozz/YourMozz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
